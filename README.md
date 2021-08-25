@@ -5,7 +5,12 @@
 ```
 ```idris
 Me: Type
-Me = Me -> _|_
+Me = Me -> Void
 me: Me
 me x = x x
+```
+```haskell
+import Data.Void
+data Me = Me (Me -> Void)
+me = Me (\me -> case me of (Me x) -> x me)
 ```
