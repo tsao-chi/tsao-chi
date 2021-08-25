@@ -7,5 +7,5 @@
 Me: Type
 Me = Me -> _|_
 me: Me
-me x = x
+me x = x x
 ```
