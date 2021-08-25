@@ -1,5 +1,3 @@
-Survive. Survive. Survive.
-
-Nothing is more important than survival.
-
-A action must be instrumentally rational (zweckrational).
+```racket
+(define me ((lambda (x) (x x)) (lambda (x) (x x))))
+```
