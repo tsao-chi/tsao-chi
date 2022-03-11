@@ -22,6 +22,6 @@ Old user name: https://github.com/zaoqi
 
 # Project To-do list
 
-https://github.com/tsao-chi/RTZWasm
+https://github.com/tsao-chi/arissc
 
 https://github.com/tsao-chi/Ana
