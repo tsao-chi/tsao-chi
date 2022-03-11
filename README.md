@@ -1,5 +1,6 @@
 - :smiling_face_with_three_hearts: Working on [`The Aya Prover`](https://github.com/aya-prover/aya-dev).
 - :fire: Trying to build an new projection on social media.
+- Legacy projection: https://github.com/zaoqi
 
 Pronouns: She/Her
 
@@ -20,7 +21,6 @@ data Me = Me (Me -> Void)
 me = Me (\me -> case me of (Me x) -> x me)
 ```
 
-Old user name: https://github.com/zaoqi
 
 
 # Project To-do list
