@@ -1,4 +1,5 @@
-- :smiling_face_with_three_hearts: Currently working on [`The Aya Prover`](https://github.com/aya-prover/aya-dev).
+- :smiling_face_with_three_hearts: Working on [`The Aya Prover`](https://github.com/aya-prover/aya-dev).
+- :fire: Trying to build an new projection on social media.
 
 Pronouns: She/Her
 
