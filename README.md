@@ -1,3 +1,5 @@
+- :smiling_face_with_three_hearts: Currently working on [`The Aya Prover`](https://github.com/aya-prover/aya-dev).
+
 Pronouns: She/Her
 
 ```racket
