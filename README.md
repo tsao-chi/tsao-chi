@@ -1,5 +1,5 @@
 - :smiling_face_with_three_hearts: Working on [`The Aya Prover`](https://github.com/aya-prover/aya-dev).
-- :fire: Trying to build an new projection on social media.
+- :fire: Trying to build a new projection on social media.
 - Legacy projection: https://github.com/zaoqi
 
 Pronouns: She/Her
