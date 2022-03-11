@@ -1,4 +1,5 @@
 - :smiling_face_with_three_hearts: Working on [`The Aya Prover`](https://github.com/aya-prover/aya-dev).
+- Learning 『宅舞』
 - :fire: Trying to build a new projection on social media.
 - Legacy projection: https://github.com/zaoqi
 
