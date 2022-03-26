@@ -20,11 +20,3 @@ import Data.Void
 data Me = Me (Me -> Void)
 me = Me (\me -> case me of (Me x) -> x me)
 ```
-
-
-
-# Project To-do list
-
-https://github.com/tsao-chi/arissc
-
-https://github.com/tsao-chi/Ana
